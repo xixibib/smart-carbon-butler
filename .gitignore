@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+.streamlit/secrets.toml
+*.log
+.pytest_cache/
+.mypy_cache/
+.verify_pycache/
+data/electricity_cleaned.csv
+data/uploads/
+results/
+*backup*.py
+*before_*.py
